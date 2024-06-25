@@ -4,7 +4,7 @@ I'm a Frontend developer, proficient in HTML, SCSS, BEM, JavaScript, TypeScript,
 
 📫 Reach me out!
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartem-vlasiuk%2F)
+<object data="https://www.linkedin.com/in/artem-vlasiuk/">![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartem-vlasiuk%2F)</object>
 ![Static Badge](https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&link=https%3A%2F%2Ft.me%2Fartemvlasiuk)
 ![Static Badge](https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&link=artemvlasiuk93%40gmail.com)
 ![Static Badge](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.instagram.com%2Fartem_vlasiuk)
